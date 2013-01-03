@@ -360,7 +360,7 @@ function _putType0($font)
 	$this->_out('/CapHeight 800');
 	$this->_out('/StemV 60');
 	$this->_out('>>');
-	$this->_out('endobjaaa');
+	$this->_out('endobj');
 }
 }
 ?>
